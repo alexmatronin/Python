@@ -1,0 +1,135 @@
+№   | Language              | ISO-639 code | Text                   
+--------------------------------------------------------------------
+1   | Afrikaans             | af           | Goeie dag              
+2   | Albanian              | sq           | dite te mire           
+3   | Amharic               | am           | እንደምን ዋልክ              
+4   | Arabic                | ar           | يوم جيد                
+5   | Armenian              | hy           | Բարի օր                
+6   | Assamese              | as           | শুভ দিন                
+7   | Aymara                | ay           | Aski uru               
+8   | Azerbaijani           | az           | Gününüz xeyir          
+9   | Bambara               | bm           | Ka tile hɛrɛ           
+10  | Basque                | eu           | Egun on                
+11  | Belarusian            | be           | Дзень добры            
+12  | Bengali               | bn           | শুভ দিন                
+13  | Bhojpuri              | bho          | दिन सुभ हो             
+14  | Bosnian               | bs           | Dobar dan              
+15  | Bulgarian             | bg           | Добър ден              
+16  | Catalan               | ca           | Bon dia                
+17  | Cebuano               | ceb          | Maayong adlaw          
+18  | Chichewa              | ny           | Tsiku labwino          
+19  | Chinese (simplified)  | zh-CN        | 再会                     
+20  | Chinese (traditional) | zh-TW        | 再會                     
+21  | Corsican              | co           | Bella ghjurnata        
+22  | Croatian              | hr           | Dobar dan              
+23  | Czech                 | cs           | Dobrý den              
+24  | Danish                | da           | God dag                
+25  | Dhivehi               | dv           | ބާއްޖަވެރި ދުވަހެއް    
+26  | Dogri                 | doi          | दिन चंगा होए           
+27  | Dutch                 | nl           | Goededag               
+28  | English               | en           | Good day               
+29  | Esperanto             | eo           | Bonan tagon            
+30  | Estonian              | et           | Hea päev               
+31  | Ewe                   | ee           | Ŋkekea me nenyo        
+32  | Filipino              | tl           | Magandang araw po      
+33  | Finnish               | fi           | Hyvää päivää           
+34  | French                | fr           | Bonne journée          
+35  | Frisian               | fy           | Goeie dei              
+36  | Galician              | gl           | Bo día                 
+37  | Georgian              | ka           | კარგი დღე              
+38  | German                | de           | Guten Tag              
+39  | Greek                 | el           | Καλημέρα               
+40  | Guarani               | gn           | Mba'éichapa neko'ẽ     
+41  | Gujarati              | gu           | શુભ દિવસ               
+42  | Haitian creole        | ht           | Bon jounen             
+43  | Hausa                 | ha           | Ina kwana              
+44  | Hawaiian              | haw          | He lā maikaʻi          
+45  | Hebrew                | iw           | יום טוב                
+46  | Hindi                 | hi           | शुभ दिन                
+47  | Hmong                 | hmn          | Nyob zoo               
+48  | Hungarian             | hu           | Jó napot kívánok       
+49  | Icelandic             | is           | Góðan dag              
+50  | Igbo                  | ig           | Ehihie ọma             
+51  | Ilocano               | ilo          | Naimbag nga aldaw      
+52  | Indonesian            | id           | Selamat tinggal        
+53  | Irish                 | ga           | Lá maith               
+54  | Italian               | it           | Buona giornata         
+55  | Japanese              | ja           | 良い一日                   
+56  | Javanese              | jw           | sugeng siang           
+57  | Kannada               | kn           | ಶುಭದಿನ                 
+58  | Kazakh                | kk           | Қайырлы күн            
+59  | Khmer                 | km           | ថ្ងៃល្អ។               
+60  | Kinyarwanda           | rw           | Umunsi mwiza           
+61  | Konkani               | gom          | उत्तम दीस              
+62  | Korean                | ko           | 안녕하세요                  
+63  | Krio                  | kri          | Adu-o                  
+64  | Kurdish (kurmanji)    | ku           | Roj baş                
+65  | Kurdish (sorani)      | ckb          | بەهیوای ڕۆژێکی خۆش     
+66  | Kyrgyz                | ky           | Кайырдуу күн           
+67  | Lao                   | lo           | ມື້ທີ່ດີ               
+68  | Latin                 | la           | Bonus dies             
+69  | Latvian               | lv           | Laba diena             
+70  | Lingala               | ln           | Mokolo malamu          
+71  | Lithuanian            | lt           | laba diena             
+72  | Luganda               | lg           | Olunaku olulungi       
+73  | Luxembourgish         | lb           | Gudden Dag             
+74  | Macedonian            | mk           | Добар ден              
+75  | Maithili              | mai          | बढिया दिन              
+76  | Malagasy              | mg           | Andro tsara            
+77  | Malay                 | ms           | hari yang baik         
+78  | Malayalam             | ml           | നല്ല ദിവസം             
+79  | Maltese               | mt           | Jum it-tajjeb          
+80  | Maori                 | mi           | Pai rā                 
+81  | Marathi               | mr           | शुभ दिवस               
+82  | Meiteilon (manipuri)  | mni-Mtei     | ꯌꯥꯏꯐꯔꯕ ꯅꯨꯃꯤꯠ           
+83  | Mizo                  | lus          | Ni hman nuam le        
+84  | Mongolian             | mn           | Өдрийн мэнд            
+85  | Myanmar               | my           | ကောင်းသောနေ့           
+86  | Nepali                | ne           | शुभ दिन                
+87  | Norwegian             | no           | God dag                
+88  | Odia (oriya)          | or           | ଶୁଭ ଦିନ                
+89  | Oromo                 | om           | Guyyaa gaarii          
+90  | Pashto                | ps           | ښه ورځ                 
+91  | Persian               | fa           | روز بخیر               
+92  | Polish                | pl           | Dzień dobry            
+93  | Portuguese            | pt           | Bom dia                
+94  | Punjabi               | pa           | ਚੰਗਾ ਦਿਨ               
+95  | Quechua               | qu           | Allin punchaw          
+96  | Romanian              | ro           | Bună ziua              
+97  | Russian               | ru           | Добрый день            
+98  | Samoan                | sm           | Manuia le aso          
+99  | Sanskrit              | sa           | शुभ दिवस               
+100 | Scots gaelic          | gd           | Latha math             
+101 | Sepedi                | nso          | Letšatši le lebotse    
+102 | Serbian               | sr           | Добар дан              
+103 | Sesotho               | st           | Lumela                 
+104 | Shona                 | sn           | Zuva rakanaka          
+105 | Sindhi                | sd           | توهان جو ڏينهن سٺو گذري
+106 | Sinhala               | si           | සුබ දිනක්              
+107 | Slovak                | sk           | Dobry den              
+108 | Slovenian             | sl           | dober dan              
+109 | Somali                | so           | Maalin wanaagsan       
+110 | Spanish               | es           | Buen día               
+111 | Sundanese             | su           | Wilujeng siang         
+112 | Swahili               | sw           | Siku njema             
+113 | Swedish               | sv           | God dag                
+114 | Tajik                 | tg           | Рӯзи нағз              
+115 | Tamil                 | ta           | நல்ல நாள்              
+116 | Tatar                 | tt           | Хәерле көн             
+117 | Telugu                | te           | మంచి రోజు              
+118 | Thai                  | th           | ขอให้เป็นวันที่ดี      
+119 | Tigrinya              | ti           | ብሩኽ መዓልቲ               
+120 | Tsonga                | ts           | Siku lerinene          
+121 | Turkish               | tr           | İyi günler             
+122 | Turkmen               | tk           | Günüňiz haýyrly bolsun 
+123 | Twi                   | ak           | Da pa                  
+124 | Ukrainian             | uk           | Добрий день            
+125 | Urdu                  | ur           | اچھا دن                
+126 | Uyghur                | ug           | خەيرلىك كۈن            
+127 | Uzbek                 | uz           | Xayrli kun             
+128 | Vietnamese            | vi           | Chúc một ngày tốt lành 
+129 | Welsh                 | cy           | Diwrnod da             
+130 | Xhosa                 | xh           | Mholweni emini nje     
+131 | Yiddish               | yi           | אַ גוטן טאָג           
+132 | Yoruba                | yo           | Ojo dada               
+133 | Zulu                  | zu           | Usuku oluhle           

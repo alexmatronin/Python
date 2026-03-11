@@ -1,0 +1,247 @@
+№   | Language                      | ISO-639 code | Text                   
+----------------------------------------------------------------------------
+1   | Abkhaz                        | abk          | Good day               
+2   | Acehnese                      | ace          | Uroe yang geut         
+3   | Acholi                        | ach          | Bed ki ninu ma be      
+4   | Afar                          | aar          | Good day               
+5   | Afrikaans                     | af           | Goeie dag              
+6   | Albanian                      | sq           | dite te mire           
+7   | Alur                          | alz          | Ri maber               
+8   | Amharic                       | am           | እንደምን ዋልክ              
+9   | Arabic                        | ar           | يوم جيد                
+10  | Armenian                      | hy           | Բարի օր                
+11  | Assamese                      | as           | শুভ দিন                
+12  | Avar                          | ava          | Good day               
+13  | Awadhi                        | awa          | तुमार दिन सुभ होय      
+14  | Aymara                        | ay           | Aski uru               
+15  | Azerbaijani                   | az           | Gününüz xeyir          
+16  | Balinese                      | ban          | Éngken kabaré          
+17  | Baluchi                       | bal          | روچ وش بات             
+18  | Bambara                       | bm           | Ka tile hɛrɛ           
+19  | Baoulé                        | bci          | Tʃin kpa               
+20  | Bashkir                       | bak          | Good day               
+21  | Basque                        | eu           | Egun on                
+22  | Batak karo                    | btx          | Wari mehuli            
+23  | Batak simalungun              | bts          | Dear sadarion          
+24  | Batak toba                    | bbc          | Ari nadenggan          
+25  | Belarusian                    | be           | Дзень добры            
+26  | Bemba                         | bem          | Umutende               
+27  | Bengali                       | bn           | শুভ দিন                
+28  | Betawi                        | bew          | Met siang              
+29  | Bhojpuri                      | bho          | दिन सुभ हो             
+30  | Bikol                         | bik          | Marhay na aldaw        
+31  | Bosnian                       | bs           | Dobar dan              
+32  | Breton                        | bre          | Good day               
+33  | Bulgarian                     | bg           | Добър ден              
+34  | Buryat                        | bua          | Һайн үдэр              
+35  | Cantonese                     | yue          | 祝你今日愉快                 
+36  | Catalan                       | ca           | Bon dia                
+37  | Cebuano                       | ceb          | Maayong adlaw          
+38  | Chamorro                      | cha          | Good day               
+39  | Chechen                       | che          | Good day               
+40  | Chinese                       | zh           | 再会                     
+41  | Chinese (simplified)          | zh-cn        | 再会                     
+42  | Chinese (traditional)         | zh-tw        | 再會                     
+43  | Chuukese                      | chk          | Ran annim              
+44  | Chuvash                       | chv          | Good day               
+45  | Corsican                      | co           | Bella ghjurnata        
+46  | Crimean tatar                 | crh          | Хайырлы куньлер        
+47  | Croatian                      | hr           | Dobar dan              
+48  | Czech                         | cs           | Dobrý den              
+49  | Danish                        | da           | God dag                
+50  | Dari                          | fa-af        | روز بخیر               
+51  | Dhivehi                       | dv           | ބާއްޖަވެރި ދުވަހެއް    
+52  | Dinka                         | din          | Ok abï yök             
+53  | Dogri                         | doi          | दिन चंगा होए           
+54  | Dombe                         | dom          | Good day               
+55  | Dutch                         | nl           | Goededag               
+56  | Dyula                         | dyu          | Ka tile hɛrɛ           
+57  | Dzongkha                      | dzo          | Good day               
+58  | English                       | en           | Good day               
+59  | Esperanto                     | eo           | Bonan tagon            
+60  | Estonian                      | et           | Hea päev               
+61  | Faroese                       | fao          | Good day               
+62  | Fijian                        | fij          | Good day               
+63  | Filipino (tagalog)            | fil          | Magandang araw po      
+64  | Finnish                       | fi           | Hyvää päivää           
+65  | Fon                           | fon          | Azǎn ɖagbe             
+66  | French                        | fr           | Bonne journée          
+67  | Frisian                       | fy           | Goeie dei              
+68  | Friulian                      | fur          | Buine zornade          
+69  | Fulani                        | ful          | Good day               
+70  | Ga                            | gaa          | Gbi kpakpa             
+71  | Galician                      | gl           | Bo día                 
+72  | Georgian                      | ka           | კარგი დღე              
+73  | German                        | de           | Guten Tag              
+74  | Greek                         | el           | Καλημέρα               
+75  | Guarani                       | gn           | Mba'éichapa neko'ẽ     
+76  | Gujarati                      | gu           | શુભ દિવસ               
+77  | Haitian creole                | ht           | Bon jounen             
+78  | Hakha chin                    | cnh          | Chun tha               
+79  | Hausa                         | ha           | Ina kwana              
+80  | Hawaiian                      | haw          | He lā maikaʻi          
+81  | Hebrew                        | he           | יום טוב                
+82  | Hebrew                        | iw           | יום טוב                
+83  | Hiligaynon                    | hil          | Mayad nga adlaw        
+84  | Hindi                         | hi           | शुभ दिन                
+85  | Hmong                         | hmn          | Nyob zoo               
+86  | Hungarian                     | hu           | Jó napot kívánok       
+87  | Hunsrik                       | hrx          | Xeen taach             
+88  | Iban                          | iba          | Hari manah             
+89  | Icelandic                     | is           | Góðan dag              
+90  | Igbo                          | ig           | Ehihie ọma             
+91  | Ilocano                       | ilo          | Naimbag nga aldaw      
+92  | Indonesian                    | id           | Selamat tinggal        
+93  | Irish                         | ga           | Lá maith               
+94  | Italian                       | it           | Buona giornata         
+95  | Jamaican patois               | jam          | Gud day                
+96  | Japanese                      | ja           | 良い一日                   
+97  | Javanese                      | jv           | sugeng siang           
+98  | Javanese                      | jw           | sugeng siang           
+99  | Jingpo                        | kac          | Shani kaja rai u ga    
+100 | Kalaallisut                   | kal          | Good day               
+101 | Kannada                       | kn           | ಶುಭದಿನ                 
+102 | Kanuri                        | kau          | Good day               
+103 | Kapampangan                   | pam          | Mimingat               
+104 | Kazakh                        | kk           | Қайырлы күн            
+105 | Khasi                         | kha          | Khublei                
+106 | Khmer                         | km           | ថ្ងៃល្អ។               
+107 | Kiga                          | cgg          | Eizoba rirungi         
+108 | Kikongo                       | kik          | Good day               
+109 | Kinyarwanda                   | rw           | Umunsi mwiza           
+110 | Kituba                        | ktu          | Kilumbu ya mbote       
+111 | Kokborok                      | trp          | Sal kaham              
+112 | Komi                          | kom          | Good day               
+113 | Konkani                       | gom          | उत्तम दीस              
+114 | Korean                        | ko           | 안녕하세요                  
+115 | Krio                          | kri          | Adu-o                  
+116 | Kurdish                       | ku           | Roj baş                
+117 | Kurdish (sorani)              | ckb          | بەهیوای ڕۆژێکی خۆش     
+118 | Kyrgyz                        | ky           | Кайырдуу күн           
+119 | Lao                           | lo           | ມື້ທີ່ດີ               
+120 | Latgalian                     | ltg          | Loba dīna              
+121 | Latin                         | la           | Bonus dies             
+122 | Latvian                       | lv           | Laba diena             
+123 | Ligurian                      | lij          | Boña giornâ            
+124 | Limburgish                    | lim          | Good day               
+125 | Lingala                       | ln           | Mokolo malamu          
+126 | Lithuanian                    | lt           | laba diena             
+127 | Lombard                       | lmo          | Bondì                  
+128 | Luganda                       | lg           | Olunaku olulungi       
+129 | Luo                           | luo          | Odiochieng' maber      
+130 | Luxembourgish                 | lb           | Gudden Dag             
+131 | Macedonian                    | mk           | Добар ден              
+132 | Madurese                      | mad          | Selamet siang          
+133 | Maithili                      | mai          | बढिया दिन              
+134 | Makassar                      | mak          | Salamakki allampa      
+135 | Malagasy                      | mg           | Andro tsara            
+136 | Malay                         | ms           | hari yang baik         
+137 | Malay (jawi)                  | ms-arab      | hari yang baik         
+138 | Malayalam                     | ml           | നല്ല ദിവസം             
+139 | Maltese                       | mt           | Jum it-tajjeb          
+140 | Mam                           | mam          | B´a´ntz q´ij           
+141 | Manx                          | glv          | Good day               
+142 | Maori                         | mi           | Pai rā                 
+143 | Marathi                       | mr           | शुभ दिवस               
+144 | Marshallese                   | mah          | Good day               
+145 | Marwadi                       | mwr          | दिन चोखो रेवै          
+146 | Mauritian creole              | mfe          | Bonzour                
+147 | Meadow mari                   | mhr          | Кече сай               
+148 | Meiteilon (manipuri)          | mni-mtei     | ꯌꯥꯏꯐꯔꯕ ꯅꯨꯃꯤꯠ           
+149 | Minang                        | min          | Salamaik siang         
+150 | Mizo                          | lus          | Ni hman nuam le        
+151 | Mongolian                     | mn           | Өдрийн мэнд            
+152 | Myanmar (burmese)             | my           | ကောင်းသောနေ့           
+153 | Nahuatl (eastern huasteca)    | nhe          | Kuali tonal            
+154 | Ndau                          | ndc-zw       | Добрий день            
+155 | Ndebele (south)               | nde          | Good day               
+156 | Nepalbhasa (newari)           | new          | छं दिं बांलायेमा       
+157 | Nepali                        | ne           | शुभ दिन                
+158 | Norwegian                     | no           | God dag                
+159 | Nuer                          | nus          | Cäŋ mi gɔa̱            
+160 | Nyanja (chichewa)             | ny           | Tsiku labwino          
+161 | Occitan                       | oci          | Good day               
+162 | Odia (oriya)                  | or           | ଶୁଭ ଦିନ                
+163 | Oromo                         | om           | Guyyaa gaarii          
+164 | Ossetian                      | oss          | Good day               
+165 | Pangasinan                    | pag          | Maong ya agew          
+166 | Papiamento                    | pap          | Bon dia                
+167 | Pashto                        | ps           | ښه ورځ                 
+168 | Persian                       | fa           | روز بخیر               
+169 | Polish                        | pl           | Dzień dobry            
+170 | Portuguese (portugal)         | por          | Good day               
+171 | Portuguese (portugal, brazil) | pt           | Bom dia                
+172 | Punjabi                       | pa           | ਚੰਗਾ ਦਿਨ               
+173 | Punjabi (shahmukhi)           | pa-arab      | ਚੰਗਾ ਦਿਨ               
+174 | Q'eqchi'                      | kek          | Chanxawil              
+175 | Quechua                       | qu           | Allin punchaw          
+176 | Romani                        | rom          | Laćho dĭves            
+177 | Romanian                      | ro           | Bună ziua              
+178 | Rundi                         | run          | Good day               
+179 | Russian                       | ru           | Добрый день            
+180 | Sami (north)                  | sme          | Good day               
+181 | Samoan                        | sm           | Manuia le aso          
+182 | Sango                         | sag          | Good day               
+183 | Sanskrit                      | sa           | शुभ दिवस               
+184 | Santali                       | sat          | ᱵᱷᱟᱜᱮ ᱥᱤᱧ              
+185 | Scots gaelic                  | gd           | Latha math             
+186 | Sepedi                        | nso          | Letšatši le lebotse    
+187 | Serbian                       | sr           | Добар дан              
+188 | Sesotho                       | st           | Lumela                 
+189 | Seychellois creole            | crs          | Bonzour                
+190 | Shan                          | shn          | ဝၼ်းလီ                 
+191 | Shona                         | sn           | Zuva rakanaka          
+192 | Sicilian                      | scn          | Bona jurnata           
+193 | Silesian                      | szl          | Dobry dziyń            
+194 | Sindhi                        | sd           | توهان جو ڏينهن سٺو گذري
+195 | Sinhala (sinhalese)           | si           | සුබ දිනක්              
+196 | Slovak                        | sk           | Dobry den              
+197 | Slovenian                     | sl           | dober dan              
+198 | Somali                        | so           | Maalin wanaagsan       
+199 | Spanish                       | es           | Buen día               
+200 | Sundanese                     | su           | Wilujeng siang         
+201 | Susu                          | sus          | Lökhè fan'yi           
+202 | Swahili                       | sw           | Siku njema             
+203 | Swati                         | ssw          | Good day               
+204 | Swedish                       | sv           | God dag                
+205 | Tagalog (filipino)            | tl           | Magandang araw po      
+206 | Tahitian                      | tah          | Good day               
+207 | Tajik                         | tg           | Рӯзи нағз              
+208 | Tamazight                     | ber-atn      | Good day               
+209 | Tamazight (tifinagh)          | ber          | ⴰⵙⵙ ⴰⵎⴻⴳⴳⴰⵣ            
+210 | Tamil                         | ta           | நல்ல நாள்              
+211 | Tatar                         | tt           | Хәерле көн             
+212 | Telugu                        | te           | మంచి రోజు              
+213 | Tetum                         | tet          | Loron di'ak            
+214 | Thai                          | th           | ขอให้เป็นวันที่ดี      
+215 | Tibetan                       | bod          | Good day               
+216 | Tigrinya                      | ti           | ብሩኽ መዓልቲ               
+217 | Tiv                           | tiv          | Upande nena            
+218 | Tok pisin                     | tpi          | Gutpela de             
+219 | Tongan                        | ton          | Good day               
+220 | Tsonga                        | ts           | Siku lerinene          
+221 | Tswana                        | tsn          | Good day               
+222 | Tulu                          | tcy          | ದಿನ ಎಡ್ಡೆ ಉಪ್ಪಾಡ್      
+223 | Tumbuka                       | tum          | Zuba liwemi            
+224 | Turkish                       | tr           | İyi günler             
+225 | Turkmen                       | tk           | Günüňiz haýyrly bolsun 
+226 | Tuvan                         | tuk          | Good day               
+227 | Twi (akan)                    | ak           | Da pa                  
+228 | Udmurt                        | udm          | Бур нуналэн            
+229 | Ukrainian                     | uk           | Добрий день            
+230 | Urdu                          | ur           | اچھا دن                
+231 | Uyghur                        | ug           | خەيرلىك كۈن            
+232 | Uzbek                         | uz           | Xayrli kun             
+233 | Venda                         | ven          | Good day               
+234 | Venetian                      | vec          | Bona jornada           
+235 | Vietnamese                    | vi           | Chúc một ngày tốt lành 
+236 | Waray                         | war          | Maupay nga adlaw       
+237 | Welsh                         | cy           | Diwrnod da             
+238 | Wolof                         | wol          | Good day               
+239 | Xhosa                         | xh           | Mholweni emini nje     
+240 | Yakut                         | sah          | Үчүгэй күн             
+241 | Yiddish                       | yi           | אַ גוטן טאָג           
+242 | Yoruba                        | yo           | Ojo dada               
+243 | Yucatec maya                  | yua          | Ma'alob k'iin          
+244 | Zapotec                       | zap          | Sicarú dxi             
+245 | Zulu                          | zu           | Usuku oluhle           
