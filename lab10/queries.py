@@ -9,7 +9,7 @@ db_params = {
 }
 
 def print_table(cursor, title):
-    print(f"\n{'='*7} {title} {'='*7}")    
+    print(f"\n{'-'*7} {title} {'-'*7}")    
     columns = [desc[0] for desc in cursor.description]
     data = cursor.fetchall()
     
@@ -40,7 +40,7 @@ try:
             tables = ['clients', 'phones', 'tariffs', 'calls']
             for table in tables:
                 cursor.execute(f"SELECT * FROM {table};")
-                print_table(cursor, f"ТАБЛИЦЯ: {table.upper()}")
+                print_table(cursor, f"Таблиця: {table.upper()}")
 
             query1 = """
             SELECT 
